@@ -31,7 +31,7 @@
     		style="position:static; top:176px; left:205px; width:500px; height:300px; " id="">
     	</w2:fusionchart>
     	<w2:anchor outerDiv="false" style="position:static; top:366px; left:51px; width:100px; height:23px; " id="">
-    		<xf:label><![CDATA[Insert Text]]></xf:label>
+    		<xf:label><![CDATA[바꿔]]></xf:label>
     	</w2:anchor>
     </body>
 </html>
