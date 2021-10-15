@@ -30,5 +30,8 @@
     	<w2:fusionchart accessibility="false" drawType="javascript" runflashAt="IE6,IE7,IE8" seriesType="simple" chartType="Column2D"
     		style="position:static; top:176px; left:205px; width:500px; height:300px; " id="">
     	</w2:fusionchart>
+    	<w2:anchor outerDiv="false" style="position:static; top:366px; left:51px; width:100px; height:23px; " id="">
+    		<xf:label><![CDATA[Insert Text]]></xf:label>
+    	</w2:anchor>
     </body>
 </html>
